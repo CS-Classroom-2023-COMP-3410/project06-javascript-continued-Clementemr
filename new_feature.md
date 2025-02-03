@@ -1,0 +1,4 @@
+I want you to add a feature that matches the following description without removing or disrupting any other features:
+I want a section on the website of fun facts where it shows a historical event that happened at the current time, but in the past. For example, if the Gettysburg Address was given at noon, the digital clock website would show some information about the Gettysburg Address on the site. Then at the next hour, it would change to a new event.
+
+This feature was pretty simple. It would just display a historical event that happened at the current time for every time. Chatgpt was able to implement this through a list of events that would rotate based on what time it was, but it failed because it would not actually line the times up and it would only do events for each hour not each minute.
